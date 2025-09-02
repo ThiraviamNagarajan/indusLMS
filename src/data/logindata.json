@@ -1,0 +1,17 @@
+[
+  {
+    "username": "student01",
+    "password": "pass123",
+    "academicYear": "2023-2024"
+  },
+  {
+    "username": "student02",
+    "password": "password456",
+    "academicYear": "2024-2025"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "academicYear": "2023-2024"
+  }
+]
